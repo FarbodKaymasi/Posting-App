@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Baloo Bhaijaan 2";
+  src: url('https://fonts.googleapis.com/css?family=Baloo Bhaijaan 2');
+}
+
+* {
+  font-family: "Baloo Bhaijaan 2";
+  zoom: 99.7%;
+}
+
+button {
+  bottom: 0px;
+  position: relative;
+  border-radius: 20px;
+}
+
